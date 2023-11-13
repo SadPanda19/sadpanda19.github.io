@@ -1,10 +1,10 @@
-# sadpanda19.github.io
+
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Página web de ejemplo</title>
+  Página web de ejemplo
 </head>
 <body>
-  <h1>Hola</h1>
+  Hola
 </body>
 </html>
